@@ -2,6 +2,16 @@ body {
     margin: 0
 }
 
+#top_1{
+    padding-right: 400px;
+    display: block;
+    width: 1300px;
+    margin-left:auto;
+    margin-right: auto;
+    text-align: center;
+    height:150px;
+}
+
 #box {
     width: 1300px;
     margin-left: auto;
